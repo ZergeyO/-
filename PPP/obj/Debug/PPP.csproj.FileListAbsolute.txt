@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\project\PPP\PPP\bin\Debug\PPP.exe.config
+C:\Users\Admin\source\repos\project\PPP\PPP\bin\Debug\PPP.exe
+C:\Users\Admin\source\repos\project\PPP\PPP\bin\Debug\PPP.pdb
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.Properties.Resources.resources
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.exe
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.pdb
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.Spectrummetr.resources
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.oscilograph.resources
+C:\Users\Admin\source\repos\project\PPP\PPP\bin\Debug\MathNet.Numerics.dll
+C:\Users\Admin\source\repos\project\PPP\PPP\bin\Debug\MathNet.Numerics.xml
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.csproj.Up2Date
+C:\Users\Admin\source\repos\project\PPP\PPP\obj\Debug\PPP.openForm.resources
